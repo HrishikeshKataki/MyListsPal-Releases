@@ -1,0 +1,44 @@
+🎉 **MyListsPal v0.1.0 — Initial Release**
+
+Welcome to the first release of **MyListsPal**, your new favorite way to manage and create beautiful, aesthetic lists, now on Windows.
+
+---
+
+### ✨ About the App
+
+MyListsPal is a clean and modern list-making application designed to focus on visual beauty and simplicity. Whether you're organizing ideas, collecting books or movies, building a wishlist, or just curating thoughts — MyListsPal helps you do it with style.
+
+---
+
+### 🚀 What's Inside v0.1.0
+- 🧾 Create and manage lists and list items
+- 🎨 Beautiful and colorful UI
+- 🖼️ Modern, minimal layout with smooth experience
+- 💾 All data is stored locally for privacy
+- ⚡ Lightweight, fast, and distraction-free
+- 🖥️ Native Windows experience
+
+---
+
+### 📦 How to Install
+1. Download the `MyListsPal Setup-v0.1.0.exe` file below.
+2. Double-click to run the installer.
+3. Follow the setup wizard instructions.
+4. Launch the app from the Start Menu or Desktop icon.
+
+---
+
+### 📄 License
+This software is free for personal use only.  
+**Commercial use, reverse engineering, or redistribution is prohibited** without prior permission.  
+Refer to the Installer for Full License
+
+---
+
+### 🛠️ Requirements
+- Windows 10 or later (64-bit)
+
+---
+
+### 🐞 Found a Bug?
+Please [create a new issue](../../issues) and we’ll look into it!
