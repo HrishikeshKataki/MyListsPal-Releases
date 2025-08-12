@@ -4,7 +4,7 @@ Welcome to the official release repository for **MyListsPal** — a beautifully 
 
 This repository is dedicated to hosting all public builds of the app across platforms.
 
-[Why am I hosting the releases here? Mostly because i don't have money to host it elsewhere :(]
+[Why am I hosting the releases here? Mostly because I'm a student and don't have money to host it elsewhere :( ]
 
 ---
 
