@@ -3,6 +3,7 @@
 Welcome to the official release repository for **MyListsPal** — a beautifully designed, fully private, Lists app built with Flutter to help you make Lists for _anything_.
 
 This repository is dedicated to hosting all public builds of the app across platforms.
+
 [Why am I hosting the releases here? Mostly because i don't have money to host it elsewhere :(]
 
 ---
