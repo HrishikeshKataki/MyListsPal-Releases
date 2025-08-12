@@ -4,8 +4,6 @@ Welcome to the official release repository for **MyListsPal** — a beautifully 
 
 This repository is dedicated to hosting all public builds of the app across platforms.
 
-[Why am I hosting the releases here? Mostly because I'm a student and don't have money to host it elsewhere :( ]
-
 ---
 
 ## 🚀 What is MyListsPal?
@@ -58,5 +56,10 @@ Want to give feedback or report issues? We'd love to hear from you:
 ## 📄 License
 
 This repository contains **only compiled builds**. The source code for MyListsPal is private and not included in this repo.
+
+---
+
+## Why are releases hosted here?
+Mostly because the developer is a student and doesn't have money to host it elsewhere(bandwidth costs start to rack up) :(
 
 ---
