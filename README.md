@@ -25,6 +25,7 @@ You’ll find all the latest **stable builds** of MyListsPal under the [Releases
 
 ### Platforms Available:
 - ✅ Windows (`.exe`)
+- ✅ Android (`.apk`)
 - 🕓 More platforms coming soon!
 
 ---
